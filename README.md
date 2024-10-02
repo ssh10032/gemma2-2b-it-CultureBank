@@ -1,7 +1,7 @@
 # gemma2-2b-it-CultureBank
 ---
 + Finetune Gemma2-2b-it model on CultureBank dataset
-+ Google에서 주관하는 ML Bootcamp Gemma Sprint에서 사용한 모델 Finetuning, Inference 코드입니다.
++ Google에서 주관하는 ML Bootcamp Gemma Sprint에서 사용한 Gemma2 모델 Finetuning, Inference 코드입니다.
 Gemma2-2b-it 모델을 해외 국가들의 문화나 관습을 안내해줄 수 있도록
 CultureBank 데이터 집합에 파인튜닝해보았습니다.
 
