@@ -4,8 +4,10 @@
 Gemma2-2b-it 모델을 해외 국가들의 문화나 관습을 안내해줄 수 있도록
 CultureBank 데이터 집합에 파인튜닝해보았습니다.
 
+--
 ## 개발 기간
 + 2024.8.25~2024.10/4
+
 
 ## 하드웨어 정보
 + OS : Ubuntu 20.04.4 LTS
@@ -17,6 +19,7 @@ CultureBank 데이터 집합에 파인튜닝해보았습니다.
 + Graphic Driver : NVIDIA Driver 560.35.03
 
 + CUDA : 12.6
+
 
 ## 라이브러리
 + env.yaml 파일 참고
