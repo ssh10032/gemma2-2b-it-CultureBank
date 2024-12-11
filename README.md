@@ -11,13 +11,9 @@ CultureBank 데이터 집합에 파인튜닝해보았습니다.
 
 ## 하드웨어 정보
 + OS : Ubuntu 20.04.4 LTS
-
 + GPU : NVIDIA GeForce RTX 3080 Ti 12GB X2
-
 + CPU : Intel(R) Xeon(R) Silver 4210R CPU @ 2.40GHz X 20
-
 + Graphic Driver : NVIDIA Driver 560.35.03
-
 + CUDA : 12.6
 
 
